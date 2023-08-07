@@ -1,0 +1,9 @@
+.about-text {
+    color: rgb(3, 0, 0);
+}
+
+#header .logo2 img {
+    padding: 0;
+    margin: 7px 0;
+    max-height: 26px;
+}
